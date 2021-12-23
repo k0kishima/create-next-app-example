@@ -9,7 +9,7 @@
     "format": "prettier --write --ignore-path .gitignore \"src/**/*.{ts,tsx,js,jsx,json,css,scss}\""
   },
   "dependencies": {
-    "next": "12.0.5",
+    "next": "12.0.7",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
@@ -17,16 +17,16 @@
     "@testing-library/react": "12.1.2",
     "@testing-library/react-hooks": "7.0.2",
     "@types/jest": "^27.0.3",
-    "@types/node": "16.11.12",
-    "@types/react": "17.0.37",
-    "@typescript-eslint/eslint-plugin": "5.6.0",
+    "@types/node": "16.11.17",
+    "@types/react": "17.0.38",
+    "@typescript-eslint/eslint-plugin": "5.8.0",
     "eslint": "7.32.0",
     "eslint-config-next": "12.0.7",
     "eslint-config-prettier": "8.3.0",
-    "jest": "27.4.4",
+    "jest": "27.4.5",
     "jest-fetch-mock": "3.0.3",
     "prettier": "2.5.1",
-    "ts-jest": "27.1.1",
-    "typescript": "4.5.3"
+    "ts-jest": "27.1.2",
+    "typescript": "4.5.4"
   }
 }
